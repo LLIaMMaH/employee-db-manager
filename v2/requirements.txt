@@ -1,0 +1,6 @@
+colorama==0.4.6
+Faker==37.5.3
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
+loguru==0.7.3
+tqdm==4.67.1
